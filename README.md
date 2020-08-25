@@ -6,7 +6,7 @@
 
 Hi, I'm Marina Santana, a Full Stack Developer 🚀 from Brazil, currently, I enjoy movies and traveling with my friends.
 
-#### Skils
+#### Skills
 - 🌻 Javascript
 - 🌷 React
 - 🍀 Node.js
