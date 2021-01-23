@@ -2,7 +2,7 @@
 
 👀 https://marina-santana.github.io/portifolio/
 
-Hi, I'm Marina Santana, a Full Stack Developer 🚀 from Brazil, currently, I enjoy movies and hanging out with my friends.
+Hi, I'm Marina Santana, a Full Stack Developer 🚀 from Brazil, I enjoy movies and hanging out with my friends.
 
 #### Skills
 - 🌻 Javascript
