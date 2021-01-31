@@ -11,8 +11,8 @@ Hi, I'm Marina Santana, a Full Stack Developer 🚀 from Brazil, I like to watch
 - 🌼 SQL
 - 🌻 Typescript
 
-[![Linkedin](https://user-images.githubusercontent.com/47863089/106218302-d2e30400-61b5-11eb-9dc6-54ae66cd7b1a.png "Linkedin")](https://linkedin.com/in/marina-santa)
-[![Dev](https://user-images.githubusercontent.com/47863089/106218387-f60db380-61b5-11eb-9b29-9baec2d262ad.png "Dev")](https://dev.to/marinasantana/modais-com-react-js-5eh8)
+[![Linkedin](https://user-images.githubusercontent.com/47863089/106393745-a3134680-63d7-11eb-8351-8d8a5775630a.png "Linkedin")](https://linkedin.com/in/marina-santa)
+[![Dev](https://user-images.githubusercontent.com/47863089/106393768-b6261680-63d7-11eb-917e-0935d28dbabd.png "Dev")](https://dev.to/marinasantana/modais-com-react-js-5eh8)
 
 
 <!--
