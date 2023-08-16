@@ -2,11 +2,11 @@
 
 👀 https://marina-santana.github.io/portifolio/
 
-Hi, I'm Marina Santana, a Full Frontend Developer 🚀 from Brazil, I like to watch movies, travel and hanging out with my friends.
+I'm Marina Santana, a Full Frontend Developer 🚀 from Brazil, I like to watch movies, travel and hanging out with my friends.
 
 #### Skills
-- 🌻 Javascript/Typescript
-- 🌷 React.js/React Native
+- 🌻 Javascript / Typescript
+- 🌷 React.js / React Native
 - 🍀 Node.js
 - 🌼 SQL
 
